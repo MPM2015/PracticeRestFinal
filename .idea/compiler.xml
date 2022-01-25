@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PracticeRest" />
+        <module name="PracticeRestFinal" />
+        <module name="PracticeRest - Copy" />
       </profile>
     </annotationProcessing>
   </component>
