@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="528231a4-caf1-47a0-b87d-f41ad4051b99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/tests/PlaylistCheckTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/duplicate/PlaylistCheckTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/tests/PlaylistTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/tests/PlaylistTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/utility/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/utility/Routes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/duplicate/PlaylistCheckTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
