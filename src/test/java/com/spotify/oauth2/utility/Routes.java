@@ -7,4 +7,5 @@ public class Routes {
     public static final String USERS="/users";
     public static final String PLAYLISTS="/playlists";
     public static final String PLAYLISTS1="/playlists123";
+    public static final String PlaylistCHeck="Mahesh Done changes on remote file directly";
 }
