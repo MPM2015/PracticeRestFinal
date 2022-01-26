@@ -1,4 +1,4 @@
-package com.spotify.oauth2.tests;
+package duplicate;
 
 import com.spotify.oauth2.applicationAPI.PlaylistAPI;
 import com.spotify.oauth2.applicationAPI.playlistcommoncode.PlaylistAssertion;

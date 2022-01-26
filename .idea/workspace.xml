@@ -5,99 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="528231a4-caf1-47a0-b87d-f41ad4051b99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Error.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/ExternalUrls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/ExternalUrls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/ExternalUrls__1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/ExternalUrls__1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Followers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Followers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Tracks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/pojo/Tracks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/tests/PlaylistCheckTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/duplicate/PlaylistCheckTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/tests/PlaylistTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/tests/PlaylistTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/utility/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spotify/oauth2/utility/Routes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/duplicate/Playlist20Lombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/duplicate/Playlist20Lombok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/01c4a77f-2cc7-4896-8ac6-13a6e928aa7f-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/01c4a77f-2cc7-4896-8ac6-13a6e928aa7f-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/0785425b-c085-44a7-9b56-e993befe249e-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/0785425b-c085-44a7-9b56-e993befe249e-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/0b4f6807-286d-4f21-befb-b39488df9a69-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/0b4f6807-286d-4f21-befb-b39488df9a69-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/10e383c2-2311-4cf1-80cc-710574107b83-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/10e383c2-2311-4cf1-80cc-710574107b83-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/19430b2f-19ad-4d92-b9f3-013e61fbe879-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/19430b2f-19ad-4d92-b9f3-013e61fbe879-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1971cfca-fbce-4693-8c12-02ad6c2cce8d-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/1971cfca-fbce-4693-8c12-02ad6c2cce8d-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1ec45730-0b4f-463c-b68b-c82d7d752781-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/1ec45730-0b4f-463c-b68b-c82d7d752781-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1f85eada-d9f9-4baf-8f82-d73338ebce66-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/1f85eada-d9f9-4baf-8f82-d73338ebce66-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/20dd4fd8-ee05-4d29-95f2-2c9dcae2a5d4-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/20dd4fd8-ee05-4d29-95f2-2c9dcae2a5d4-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/21450b43-9e03-452e-8cd3-5353e85ba960-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/21450b43-9e03-452e-8cd3-5353e85ba960-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2721a1b3-3da1-4d8f-b20a-dffb7789bbe7-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/2721a1b3-3da1-4d8f-b20a-dffb7789bbe7-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/38ab4ac0-ee5f-43ba-84ba-417603b5a0f5-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/38ab4ac0-ee5f-43ba-84ba-417603b5a0f5-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/3bce7d5a-cd65-436c-9a25-e937de4f6378-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/3bce7d5a-cd65-436c-9a25-e937de4f6378-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/3fbd3fe7-991e-424f-8577-8dc211485c48-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/3fbd3fe7-991e-424f-8577-8dc211485c48-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/4035819a-b14d-4309-bac5-9662dd61bf47-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/4035819a-b14d-4309-bac5-9662dd61bf47-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/48bf7ee3-4ba9-492b-8d17-9db44292f046-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/48bf7ee3-4ba9-492b-8d17-9db44292f046-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/49d043b9-43b8-4715-85d7-c5ae1eeb4def-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/49d043b9-43b8-4715-85d7-c5ae1eeb4def-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5446d9ed-ae8e-4f18-b356-9fbe251a31cd-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/5446d9ed-ae8e-4f18-b356-9fbe251a31cd-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5d717244-725d-4b11-9194-e8ded44664ea-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/5d717244-725d-4b11-9194-e8ded44664ea-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/606644bf-faa2-4309-a6fb-d088eb5afeec-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/606644bf-faa2-4309-a6fb-d088eb5afeec-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/60cf9f52-3a6e-4fdc-95df-cc99b146acef-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/60cf9f52-3a6e-4fdc-95df-cc99b146acef-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6a060f37-e5d5-4708-a390-42d92dd93018-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/6a060f37-e5d5-4708-a390-42d92dd93018-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6e6ed3d4-3db4-4556-bf26-7da73b709c36-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/6e6ed3d4-3db4-4556-bf26-7da73b709c36-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6f657a23-e6b0-439a-905d-56441814dbd9-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/6f657a23-e6b0-439a-905d-56441814dbd9-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/73c12cc1-df78-4423-b48d-35feb038fe41-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/73c12cc1-df78-4423-b48d-35feb038fe41-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/7577620b-5878-4c24-a98d-a0b3fa060cb6-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/7577620b-5878-4c24-a98d-a0b3fa060cb6-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/7f5edc12-45f7-4632-8aa7-a14ced821636-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/7f5edc12-45f7-4632-8aa7-a14ced821636-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/8277f7bd-59ae-4e63-8365-88609fb98017-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/8277f7bd-59ae-4e63-8365-88609fb98017-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/83bbd1d8-2489-4f2a-860f-852a5426e876-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/83bbd1d8-2489-4f2a-860f-852a5426e876-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/856a04bb-01ec-46cb-b150-79384f326693-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/856a04bb-01ec-46cb-b150-79384f326693-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/8ba84904-aeaa-4cf9-85fd-5465834e17fd-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/8ba84904-aeaa-4cf9-85fd-5465834e17fd-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/91e1b35d-621d-4c6f-8bcf-da3d53e62067-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/91e1b35d-621d-4c6f-8bcf-da3d53e62067-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/92c6c527-5d61-4160-8ba9-4d8e30b4ef9a-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/92c6c527-5d61-4160-8ba9-4d8e30b4ef9a-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9a0cf036-9eb0-4dc1-81ae-ad2aba186c13-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/9a0cf036-9eb0-4dc1-81ae-ad2aba186c13-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9aa3a453-c9fa-4651-ae1a-20da48a4b1ae-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/9aa3a453-c9fa-4651-ae1a-20da48a4b1ae-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9c15f2aa-6ba5-4047-b445-b145b7b8bcdb-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/9c15f2aa-6ba5-4047-b445-b145b7b8bcdb-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9c37beea-0e16-41f0-bba7-9c849d3b7136-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/9c37beea-0e16-41f0-bba7-9c849d3b7136-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9df33792-d0fc-46b8-a7fa-c7f74d9e36b4-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/9df33792-d0fc-46b8-a7fa-c7f74d9e36b4-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/a5fb7255-0bd2-4630-8f38-2a08d0a0fbbb-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/a5fb7255-0bd2-4630-8f38-2a08d0a0fbbb-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ab4c69a9-b6f8-4188-bddf-3cf4159b9c77-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/ab4c69a9-b6f8-4188-bddf-3cf4159b9c77-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ab94b758-342b-411b-8a07-62f0e0cb7daf-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/ab94b758-342b-411b-8a07-62f0e0cb7daf-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/adc9b3d7-36a4-4c3c-8f96-afffc6490552-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/adc9b3d7-36a4-4c3c-8f96-afffc6490552-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ae97105c-bbcc-4fa1-a7b5-723f37862f34-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/ae97105c-bbcc-4fa1-a7b5-723f37862f34-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/b52caccc-3c73-482d-b04c-5b0fc37fd1dd-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/b52caccc-3c73-482d-b04c-5b0fc37fd1dd-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/bb81851c-803a-4c1d-b332-dc76b6e1b923-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/bb81851c-803a-4c1d-b332-dc76b6e1b923-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c266f894-f787-47a8-807e-0f5040d276df-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/c266f894-f787-47a8-807e-0f5040d276df-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c55cc446-b73c-4d25-ba9c-14a8ea479080-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/c55cc446-b73c-4d25-ba9c-14a8ea479080-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c7758fd7-baa5-4187-94ea-4d68a11057fe-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/c7758fd7-baa5-4187-94ea-4d68a11057fe-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/cc25f730-c162-4d6b-a443-1b05b1c5cf95-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/cc25f730-c162-4d6b-a443-1b05b1c5cf95-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/cf1ad78b-7318-4f13-a1d1-9b598d68850e-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/cf1ad78b-7318-4f13-a1d1-9b598d68850e-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d812c12f-fdf7-46f8-bbf3-799e611e578f-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/d812c12f-fdf7-46f8-bbf3-799e611e578f-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d8dc7f33-98c2-4cba-a88b-438aecc6f2db-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/d8dc7f33-98c2-4cba-a88b-438aecc6f2db-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/da2494c3-b8c2-4904-a9b8-62c931b04488-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/da2494c3-b8c2-4904-a9b8-62c931b04488-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/da56baeb-dccc-400a-b0c4-a0631f1f415f-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/da56baeb-dccc-400a-b0c4-a0631f1f415f-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/db66b570-cc14-46ad-83d7-08d2c26abfe8-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/db66b570-cc14-46ad-83d7-08d2c26abfe8-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/db8d489d-26f2-411b-b76f-6b544c121c37-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/db8d489d-26f2-411b-b76f-6b544c121c37-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e012df78-e6c8-4da6-868f-3a66f2ed4baa-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/e012df78-e6c8-4da6-868f-3a66f2ed4baa-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e8900cbf-abe4-48ee-bfc7-e1a2c21386e0-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/e8900cbf-abe4-48ee-bfc7-e1a2c21386e0-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e9024dd7-3589-4499-98a7-3f656916c6e1-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/e9024dd7-3589-4499-98a7-3f656916c6e1-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f2e88197-cae5-4ec7-823c-56e4d96b92a3-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/f2e88197-cae5-4ec7-823c-56e4d96b92a3-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f7839904-98fd-4be9-88b6-6b4654658253-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/f7839904-98fd-4be9-88b6-6b4654658253-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f85b11e1-838f-4949-beb2-2d2ad7af73da-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/f85b11e1-838f-4949-beb2-2d2ad7af73da-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/fcd14f73-ae4f-47ed-8f36-32816888bde4-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/fcd14f73-ae4f-47ed-8f36-32816888bde4-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/fdf803d3-9886-4ae6-bdb5-26d77203bb12-attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/fdf803d3-9886-4ae6-bdb5-26d77203bb12-attachment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.spotify.oauth2.tests.PlaylistTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.spotify.oauth2.tests.PlaylistTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.spotify.oauth2.tests.PlaylistCheckTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.spotify.oauth2.tests.PlaylistCheckTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.spotify.oauth2.tests.PlaylistTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.spotify.oauth2.tests.PlaylistTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,18 +49,29 @@
       <recent name="com.spotify.oauth2.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PlaylistTests (2)">
-    <configuration name="PlaylistCheckTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PracticeRest" />
+  <component name="RunManager" selected="TestNG.PlaylistCheckTests (1)">
+    <configuration name="PlaylistCheckTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeRestFinal" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spotify.oauth2.tests.*" />
+          <option name="PATTERN" value="duplicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.spotify.oauth2.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.spotify.oauth2.tests.PlaylistCheckTests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="duplicate" />
+      <option name="MAIN_CLASS_NAME" value="duplicate.PlaylistCheckTests" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -ea -Dtestng.dtd.http=true -DBASE_URI=&quot;https://api.spotify.com&quot; -DACCOUNT_BASE_URI=&quot;https://accounts.spotify.com&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -184,13 +106,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaylistTests (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PlaylistTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeRest" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="duplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.spotify.oauth2.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.spotify.oauth2.tests.PlaylistTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -ea -Dtestng.dtd.http=true -DBASE_URI=&quot;https://api.spotify.com&quot; -DACCOUNT_BASE_URI=&quot;https://accounts.spotify.com&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeRestFinal" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spotify.oauth2.tests.*" />
+          <option name="PATTERN" value="duplicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,13 +179,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaylistTests.ShouldBeAbleToCreatePlaylist (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PlaylistTests.ShouldBeAbleToCreatePlaylist" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="duplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spotify.oauth2.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.spotify.oauth2.tests.PlaylistTests" />
+      <option name="METHOD_NAME" value="ShouldBeAbleToCreatePlaylist" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistTests.ShouldBeAbleToCreatePlaylist" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PracticeRest" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spotify.oauth2.tests.*" />
+          <option name="PATTERN" value="duplicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,24 +220,6 @@
         <value defaultName="moduleWithDependencies" />
       </option>
       <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlaylistTests.ShouldBeAbleToCreatePlaylist" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PracticeRest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spotify.oauth2.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.spotify.oauth2.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.spotify.oauth2.tests.PlaylistTests" />
-      <option name="METHOD_NAME" value="ShouldBeAbleToCreatePlaylist" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -299,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PlaylistCheckTests (1)" />
         <item itemvalue="TestNG.PlaylistTests (2)" />
         <item itemvalue="TestNG.PlaylistTests (1)" />
         <item itemvalue="TestNG.PlaylistTests.ShouldBeAbleToCreatePlaylist (1)" />
         <item itemvalue="TestNG.PlaylistTests (1)" />
-        <item itemvalue="TestNG.PlaylistCheckTests" />
       </list>
     </recent_temporary>
   </component>

@@ -26,10 +26,11 @@ public class PlaylistTests extends BaseTest{
     @TmsLink("test-238")
     @Description("Description for Spotify Create Playlist")
     @Test(description = "Spotify CreatePlaylist")
-    public void ShouldBeAbleToCreatePlaylist() {
+    public void ShouldBeAbleToCreatePlaylist() throws InterruptedException {
 
         Playlist requestPlaylist = PlaylistRequest.requestPlaylistBuilder(FakerUtils.generateName(),FakerUtils.generateDescription(),false);
         Response response = PlaylistAPI.post(requestPlaylist);
+        Thread.sleep(3000);
         PlaylistAssertion.assertionPlaylistStatusCode(response.statusCode(),StatusCode.CODE_201);
         Playlist responsePlaylist = response.as(Playlist.class);
         PlaylistAssertion.assertionPlaylistResponseAndRequest(responsePlaylist,requestPlaylist);
@@ -44,10 +45,11 @@ public class PlaylistTests extends BaseTest{
     @TmsLink("test-111")
     @Description("Description for Spotify Create Playlist1")
     @Test(description = "Spotify CreatePlaylist1")
-    public void ShouldBeAbleToCreatePlaylist1() {
+    public void ShouldBeAbleToCreatePlaylist1() throws InterruptedException {
 
         Playlist requestPlaylist = PlaylistRequest.requestPlaylistBuilder(FakerUtils.generateName(),FakerUtils.generateDescription(),false);
         Response response = PlaylistAPI.post(requestPlaylist);
+        Thread.sleep(3000);
         PlaylistAssertion.assertionPlaylistStatusCode(response.statusCode(),StatusCode.CODE_201);
         Playlist responsePlaylist = response.as(Playlist.class);
         PlaylistAssertion.assertionPlaylistResponseAndRequest(responsePlaylist,requestPlaylist);
@@ -61,10 +63,11 @@ public class PlaylistTests extends BaseTest{
     @TmsLink("test-222")
     @Description("Description for Spotify Create Playlist2")
     @Test(description = "Spotify CreatePlaylist2")
-    public void ShouldBeAbleToCreatePlaylist2() {
+    public void ShouldBeAbleToCreatePlaylist2() throws InterruptedException {
 
         Playlist requestPlaylist = PlaylistRequest.requestPlaylistBuilder(FakerUtils.generateName(),FakerUtils.generateDescription(),false);
         Response response = PlaylistAPI.post(requestPlaylist);
+        Thread.sleep(3000);
         PlaylistAssertion.assertionPlaylistStatusCode(response.statusCode(),StatusCode.CODE_201);
         Playlist responsePlaylist = response.as(Playlist.class);
         PlaylistAssertion.assertionPlaylistResponseAndRequest(responsePlaylist,requestPlaylist);
